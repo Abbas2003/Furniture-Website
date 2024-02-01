@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    transition: .4s;
+}
+.socialMediaIcon {
+    text-decoration: none;
+
+}
+.BrandBox {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: end;
+}
+.BrandBox div {
+    padding: 30px;
+}
+.BrandBox a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.BrandBox:hover {
+    background-size: 150%;
+    color: orange; 
+}
