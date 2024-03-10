@@ -28,6 +28,6 @@
     font-weight: bold;
 }
 .BrandBox:hover {
-    background-size: 150%;
+    /* background-size: 150%; */
     color: orange; 
 }
