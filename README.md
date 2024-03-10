@@ -1,1 +1,1 @@
-# Bootstrap Demo Website
+# Furniture Website
